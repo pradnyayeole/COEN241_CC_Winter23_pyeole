@@ -1,4 +1,4 @@
-i#! /bin/bash
+#! /bin/bash
 #
 
 primes='20000 50000 90000'
